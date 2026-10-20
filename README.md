@@ -33,10 +33,10 @@ Computer Science graduate from JKUAT, previously a Software Engineering Intern a
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **Edge Health Monitoring & Offline-Sync Daemon** | Resilient edge telemetry daemon for rural clinics with automated local SQLite buffering and asynchronous background syncing upon network restoration. | Python, FastAPI, SQLite, Docker, Pytest |
-| **Curriculum Studio (RAG Generator)** | Enterprise curriculum design platform leveraging vector embeddings and semantic retrieval to ground lesson generation in national educational standards. | Python, FastAPI, React, Vite, Tailwind CSS, Vector Store |
-| **Enterprise Microservices Mesh (PrismHR)** | Decomposed multi-service architecture fronted by an Nginx reverse proxy with load balancing, bridge networking, and role-based access control. | Node.js, Express, Docker Compose, Nginx, React |
-| **Executive KPI & Churn Analytics Dashboard** | Business intelligence dashboard with end-to-end data processing pipelines and churn classification models to track departmental performance metrics. | Python, FastAPI, Pandas, Scikit-Learn, React, Tailwind CSS |
+| **blue-green-deployment-kubernetes** |Zero-downtime Blue/Green deployment strategy and traffic routing implementation for containerized microservices running on Kubernetes. | Python, Kubernetes, Docker, DevOps |
+| **TomatoCare** | AI-powered platform for tomato plant disease classification and contextual diagnosis advisory. | TypeScript, Next.js, FastAPI, Python, PyTorch |
+| **dispatchboard** | Operational dispatch and resource management dashboard for real-time task allocation and fleet status monitoring. | TypeScript, React, Node.js, Express, REST APIs |
+| **db-sod-auditor** | Database compliance and Segregation of Duties (SoD) auditing utility to detect access policy violations and privilege creep. | Python, PostgreSQL, SQL, Security |
 
 ---
 
