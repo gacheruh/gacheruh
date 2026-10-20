@@ -15,7 +15,7 @@ Computer Science graduate from JKUAT, previously a Software Engineering Intern a
 ### Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,ts,js,fastapi,nodejs,express,postgres,sqlite,react,docker,kubernetes,git,linux&perline=9" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,fastapi,nodejs,express,postgres,sqlite,react,vite,docker,kubernetes,azure,aws,postman,git,linux&perline=9" alt="Tech stack" />
 </p>
 
 | Area | Tools & Technologies |
@@ -23,7 +23,7 @@ Computer Science graduate from JKUAT, previously a Software Engineering Intern a
 | **Languages** | Python, TypeScript, SQL |
 | **Backend & APIs** | FastAPI, Flask, Node.js, Express.js, RESTful APIs, Microservices |
 | **Databases** | PostgreSQL, SQLite, Supabase |
-| **Cloud & DevOps** | Docker, Docker Compose, Kubernetes, Microsoft Azure, Linux (Ubuntu), Nginx, GitHub Actions (CI/CD) |
+| **Cloud & DevOps** | Docker, Docker Compose, Kubernetes, Microsoft Azure, AWS, Linux (Ubuntu), Nginx, GitHub Actions (CI/CD) |
 | **Frontend** | React, Next.js, Vite, Tailwind CSS |
 | **Testing & Tools** | Pytest, Git, GitHub, Postman, Systemd |
 
