@@ -76,3 +76,9 @@ Computer Science graduate from JKUAT, previously a Software Engineering Intern a
 ---
 
 Open to software engineering, backend systems, and DevOps/cloud-focused roles. The best way to reach me is via [email](mailto:derrickgacheru95@gmail.com) or [LinkedIn](https://linkedin.com/in/gacheru).
+
+<div align="center">
+
+### Let's build something
+
+<a href="mailto:derrickgacheru95@gmail.com"><img src="https://img.shields.io/badge/Say%20hello-derrickgacheru95%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
