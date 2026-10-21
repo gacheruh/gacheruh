@@ -39,22 +39,29 @@ Computer Science graduate from JKUAT, previously a Software Engineering Intern a
 
 ---
 
-### Experience
+## Experience
 
-**Software Engineering Intern, Parliament of Kenya (Senate)** *(Jun 2025 – Sep 2025)*
-- Spearheaded the deployment and administration of the Capacity Building for Parliamentary Staff Training (CPST) platform using Moodle LMS on Ubuntu Linux.
-- Monitored endpoint security environments across Windows and Linux, triaging system vulnerabilities and delivering structured IT support documentation for staff.
+<details open>
+  <summary><b>Software Engineering Intern, Parliament of Kenya (Senate)</b> &nbsp;|&nbsp; Jun 2025 – Sep 2025</summary>
 
-**Software Engineering Intern, J-Hub Africa** *(May 2024 – Aug 2024)*
-- Contributed to the Comprehensive Digital Ecosystem Mapping in Kenya project, mapping regional tech startups, innovation hubs, and capital channels.
-- Built and maintained responsive data views and services using React.js and Node.js.
+  - Spearheaded the deployment and administration of the Capacity Building for Parliamentary Staff Training (CPST) platform using Moodle LMS on Ubuntu Linux.
+  - Monitored endpoint security environments across Windows and Linux, triaging system vulnerabilities and delivering structured IT support documentation for staff.
+</details>
 
----
+<details open>
+  <summary><b>Software Engineering Intern, J-Hub Africa</b> &nbsp;|&nbsp; May 2024 – Aug 2024</summary>
 
-### Education
+  - Contributed to the Comprehensive Digital Ecosystem Mapping in Kenya project, mapping regional tech startups, innovation hubs, and capital channels.
+  - Built and maintained responsive data views and services using React.js and Node.js.
+</details>
 
-**BSc in Computer Science, Jomo Kenyatta University of Agriculture and Technology (JKUAT)** *(Sep 2021 – 2026)*
-- Specialized in software systems engineering, distributed architectures, database optimization, and cloud infrastructure.
+## Education
+
+<details open>
+  <summary><b>BSc Computer Science, Jomo Kenyatta University of Agriculture and Technology (JKUAT)</b> &nbsp;|&nbsp; Sep 2021 – 2026</summary>
+
+  - Specialized in software systems engineering, distributed architectures, database optimization, and cloud infrastructure.
+</details>
 
 ---
 
